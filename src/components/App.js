@@ -32,7 +32,7 @@ const App = () => {
         </div>
       </form>
       <p>Current values in store:</p>
-      <section className=".output">
+      <section className="output">
         <p>Name - {userName}</p>
         <p>Email - {userEmail}</p>
       </section>
